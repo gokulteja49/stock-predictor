@@ -1,4 +1,4 @@
-setuptools>=42
+setuptools>=60
 wheel
 asgiref==3.4.1
 asttokens==2.0.5
